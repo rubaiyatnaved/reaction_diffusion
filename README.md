@@ -13,7 +13,7 @@ The numerical schemes used here are alternating direction implicit (ADI) method 
 
 * [Peaceman, D.W. and Rachford, H.H., (1955),”The Numerical Solution of Parabolic and Elliptic Different Equations”, SIAM J., 3, p.28.](https://www.jstor.org/stable/pdf/2098834.pdf?casa_token=OoHYC6dCykgAAAAA:ph1E8fPus7BCsyhC3f4jfLymE-LABY-pGYPkm2AYxPEN4tZRJ4uyBCBJLVqIA7EEwSG40U2UFnDZfu3bxVfRmp_5PbkZhIpuryggGvHlK-brRUrgrEs)
 
-* 
+* [Gourlay, A.R. ,(1970),”Hopscotch : a Fast Second-Order Partial Differential Equation Solver”, J. Inst. Math. App., 6,375-390.](https://academic.oup.com/imamat/article-abstract/6/4/375/681092?redirectedFrom=PDF&casa_token=MAVtwLmlXh8AAAAA:_63sDpPCAZ7rYzR0nNxmUEaQ_6jW0yFNJ8wZOYS417TMGMjF_YhPI4X-6s3BZ3CbjcWWodgYst3Yxw)
 
 ## Gray-Scott Model
 
