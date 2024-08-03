@@ -9,6 +9,12 @@ $$
 \end{array}\right.
 $$
 
+The numerical schemes used here are alternating direction implicit (ADI) method and Hopscotch method
+
+* [Peaceman, D.W. and Rachford, H.H., (1955),”The Numerical Solution of Parabolic and Elliptic Different Equations”, SIAM J., 3, p.28.](https://www.jstor.org/stable/pdf/2098834.pdf?casa_token=OoHYC6dCykgAAAAA:ph1E8fPus7BCsyhC3f4jfLymE-LABY-pGYPkm2AYxPEN4tZRJ4uyBCBJLVqIA7EEwSG40U2UFnDZfu3bxVfRmp_5PbkZhIpuryggGvHlK-brRUrgrEs)
+
+* 
+
 ## Gray-Scott Model
 
 Describes a chemical reaction where chemical *U* is consumed to produce chemical *V*.
