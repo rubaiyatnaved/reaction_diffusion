@@ -3,10 +3,10 @@ A couple of reaction-diffusion systems are numerically solved using finite-diffe
 Reaction-diffsuions systems are partial differential equations used to model many chemical, physical and biological systems. The general form of a reaction-diffusion system is 
 
 $$
-\left\{\begin{array}{l}
+\begin{aligned}
 \frac{\partial u}{\partial t}=\alpha_{1}\left(\frac{\partial^{2} u}{\partial \mathrm{x}^{2}}+\frac{\partial^{2} u}{\partial y^{2}}\right)+f(u,v) \\
 \frac{\partial v}{\partial t}=\alpha_{2}\left(\frac{\partial^{2} v}{\partial \mathrm{x}^{2}}+\frac{\partial^{2} v}{\partial y^{2}}\right)+g(u,v)
-\end{array}\right.
+\end{aligned}
 $$
 
 The numerical schemes used here are alternating direction implicit (ADI) method and Hopscotch method
