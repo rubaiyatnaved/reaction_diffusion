@@ -33,3 +33,5 @@ $$
 \frac{\partial v}{\partial t}=\alpha_{2}\left(\frac{\partial^{2} v}{\partial \mathrm{x}^{2}}+\frac{\partial^{2} v}{\partial y^{2}}\right)+u v^{2}-\mathrm{(F+k)}v
 \end{aligned}
 $$
+
+Patterns are formed when we plot concentration of either of the chemicals depending on the values of *F* and *k*
