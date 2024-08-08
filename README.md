@@ -52,6 +52,9 @@ $$
 \end{aligned}
 $$
 
-Below is an example of the patterns formed from solution of these sets of differential equations. I appologise if the video of this pattern formation makes you feel dizzy :smile: .
+Below is an example of the patterns formed from solution of these sets of differential equations. Please check the video of this pattern formation, I appologise if it made you feel dizzy :smile: .
+
+<img src="/images/predator-prey.png" width="350">
+
 
 
