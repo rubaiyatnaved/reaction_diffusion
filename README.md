@@ -37,8 +37,8 @@ $$
 Patterns are formed when we plot concentration of either of the chemicals depending on the values of *F* and *k*
 
 <p float="left">
-  <img src="/images/F=0.055,k=0.062.png" width="350">
-  <img src="/images/F=0.22,k=0.051.png" width="350">
+  <img src="/images/F=0.055,k=0.062.png" width="300">     &nbsp; &nbsp; &nbsp;
+  <img src="/images/F=0.22,k=0.051.png" width="300">
 </p>
 
 
