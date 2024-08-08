@@ -41,4 +41,8 @@ Patterns are formed when we plot concentration of either of the chemicals depend
   <img src="/images/F=0.22,k=0.051.png" width="300">
 </p>
 
+## A predator-prey interaction model
+
+Models the population densities of prey and predators at a given time. There are different kinetics to describe such models and the kinetics that we work with here was described by [Holling, C. S. (1965)](https://www.cambridge.org/core/journals/memoirs-of-the-entomological-society-of-canada/article/abs/functional-response-of-predators-to-prey-density-and-its-role-in-mimicry-and-population-regulation/3877F76ECB6B1A8E8BF3D8A01FD23AB9) and given by the equations
+
 
