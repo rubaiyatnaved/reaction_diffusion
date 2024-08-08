@@ -45,4 +45,13 @@ Patterns are formed when we plot concentration of either of the chemicals depend
 
 Models the population densities of prey and predators at a given time. There are different kinetics to describe such models and the kinetics that we work with here was described by [Holling, C. S. (1965)](https://www.cambridge.org/core/journals/memoirs-of-the-entomological-society-of-canada/article/abs/functional-response-of-predators-to-prey-density-and-its-role-in-mimicry-and-population-regulation/3877F76ECB6B1A8E8BF3D8A01FD23AB9) and given by the equations
 
+$$
+\begin{aligned}
+& u_{t}=\alpha_{1}\left(\frac{\partial^{2} u}{\partial \mathrm{x}^{2}}+\frac{\partial^{2} u}{\partial y^{2}}\right)+u(1-u)-\frac{uv}{u+\alpha} \\
+& v_{t}=\alpha_{2}\left(\frac{\partial^{2} v}{\partial \mathrm{x}^{2}}+\frac{\partial^{2} v}{\partial y^{2}}\right)+\frac{\beta uv}{u+\alpha}-\gamma v
+\end{aligned}
+$$
+
+Below is an example of the patterns formed from solution of these sets of differential equations. I appologise if the video of this pattern formation makes you feel dizzy :smile: .
+
 
